@@ -2,6 +2,8 @@
 
 Hello everyone. The following is my solutions to [Advent of Code 2022](https://adventofcode.com/2022/about) in Ruby.
 
+The code written will not be the most most efficient answers out there. However, I hope the make the code as readable as possible.
+
 Please don't just copy and paste the answers. Try to understand how the code works.
 
 ## About Me
